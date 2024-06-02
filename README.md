@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walidtolba
-- 👀 I’m interested in Data Science and Artifical Intelligence
+- 👀 I’m interested in Data Science and Mobile Development
 - 🌱 I’m currently learning Data Science Advanced Topics
 - 💞️ I’m looking to collaborate on Right-free and Open projects
 
